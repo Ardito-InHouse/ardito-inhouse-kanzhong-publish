@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ardito-inhouse-kanzhong-publish/static/css/main.895d7998.css",
-    "main.js": "/ardito-inhouse-kanzhong-publish/static/js/main.49ed9859.js",
+    "main.css": "/ardito-inhouse-kanzhong-publish/static/css/main.94d38fe0.css",
+    "main.js": "/ardito-inhouse-kanzhong-publish/static/js/main.a404332d.js",
     "static/js/453.498ba2d5.chunk.js": "/ardito-inhouse-kanzhong-publish/static/js/453.498ba2d5.chunk.js",
     "index.html": "/ardito-inhouse-kanzhong-publish/index.html",
-    "main.895d7998.css.map": "/ardito-inhouse-kanzhong-publish/static/css/main.895d7998.css.map",
-    "main.49ed9859.js.map": "/ardito-inhouse-kanzhong-publish/static/js/main.49ed9859.js.map",
+    "main.94d38fe0.css.map": "/ardito-inhouse-kanzhong-publish/static/css/main.94d38fe0.css.map",
+    "main.a404332d.js.map": "/ardito-inhouse-kanzhong-publish/static/js/main.a404332d.js.map",
     "453.498ba2d5.chunk.js.map": "/ardito-inhouse-kanzhong-publish/static/js/453.498ba2d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.895d7998.css",
-    "static/js/main.49ed9859.js"
+    "static/css/main.94d38fe0.css",
+    "static/js/main.a404332d.js"
   ]
 }
