@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ardito-inhouse-kanzhong-publish/static/css/main.94d38fe0.css",
-    "main.js": "/ardito-inhouse-kanzhong-publish/static/js/main.7eaac795.js",
+    "main.js": "/ardito-inhouse-kanzhong-publish/static/js/main.03ecc1d8.js",
     "static/js/453.498ba2d5.chunk.js": "/ardito-inhouse-kanzhong-publish/static/js/453.498ba2d5.chunk.js",
     "index.html": "/ardito-inhouse-kanzhong-publish/index.html",
     "main.94d38fe0.css.map": "/ardito-inhouse-kanzhong-publish/static/css/main.94d38fe0.css.map",
-    "main.7eaac795.js.map": "/ardito-inhouse-kanzhong-publish/static/js/main.7eaac795.js.map",
+    "main.03ecc1d8.js.map": "/ardito-inhouse-kanzhong-publish/static/js/main.03ecc1d8.js.map",
     "453.498ba2d5.chunk.js.map": "/ardito-inhouse-kanzhong-publish/static/js/453.498ba2d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94d38fe0.css",
-    "static/js/main.7eaac795.js"
+    "static/js/main.03ecc1d8.js"
   ]
 }
